@@ -5,12 +5,12 @@ Certificate transparency domain recon via crt.sh. Query either web or DB interfa
 ## Install
 
     git clone 
-    cd crtsh.py
+    cd crtshRecon
     pip install -r requirements.txt
 
 ## Use
 
-    usage: crtsh.py [-h] [-r RETRIES] [-t TIMEOUT] [-s SLEEP] [-l LIMIT] [-d DATE] [-p] [-q] [-db] [-w] [-f] domain
+    usage: crtshRecon.py [-h] [-r RETRIES] [-t TIMEOUT] [-s SLEEP] [-l LIMIT] [-d DATE] [-p] [-q] [-db] [-w] [-f] domain
 
     positional arguments:
     domain
