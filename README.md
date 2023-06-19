@@ -1,4 +1,4 @@
-# crtsh.py
+# crtshRecon
 
 Certificate transparency domain recon via crt.sh. Query either web or DB interfaces with features to add stability
 
